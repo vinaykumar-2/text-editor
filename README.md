@@ -26,8 +26,6 @@ A simple yet elegant **Text Editor** built using Python's `Tkinter` library. It 
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 text-editor/
 ├── text_editor.py      # Main Application Script
 ├── requirements.txt    # Dependencies Info (Uses built-in)
