@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Backup / temporary files
+*.bak
+*.tmp
+
+# VS Code settings (if you use VS Code)
+.vscode/
+
+# OS-specific hidden files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment folders
+venv/
+.env/
+.venv/ 
