@@ -26,11 +26,14 @@ A simple yet elegant **Text Editor** built using Python's `Tkinter` library. It 
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 text-editor/
-├── text_editor.py # Main Application Script
-├── requirements.txt # Dependencies Info (empty – uses built-in libraries)
-├── .gitignore # Git ignore rules
-└── README.md # This file
+├── text_editor.py      # Main Application Script
+├── requirements.txt    # Dependencies Info (Uses built-in)
+├── .gitignore          # Git ignore rules
+└── README.md           # Project Overview & Instructions
+
 
 
 ---
